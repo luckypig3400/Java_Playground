@@ -1,3 +1,15 @@
+# First Try of JavaFX project
+
+## REF:
+
+### 在VSCode內設定JavaFX:
++ https://home.gamer.com.tw/creationDetail.php?sn=4766681
++ https://www.youtube.com/watch?v=I4J5_IWDeEo
+
+### 其他關於JavaFX的參考:
++ https://openjfx.io/
++ https://github.com/openjfx/samples/blob/master/HelloFX/CLI/hellofx/HelloFX.java
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
